@@ -11,7 +11,7 @@ Curso de GIT y git Hub
 6. (Opcional) Renombrar conexion remota `git remote rename origin fork`
 
 ## Trabajo diario
-1. Actualizar rama master con ultimos cambios `git pull -r upstream master`
+1. Actualizar rama master con ultimos cambios `git pull -r upstream main`
 2. Crear requerimiento (issue GitHub)
 3. Crear rama donde se desarrollara la funcionalidad `git checkout -b feature-nombre-rama`
 4. Trabajar en el codigo (Podemos usar `git status` para ver los archivos que han cambiado)
