@@ -7,3 +7,4 @@ Curso de GIT y git Hub
 ## Elaces de apoyo
 
 - [How to learn Git slowly](https://dev.to/samuelfaure/how-to-learn-git-slowly-38fa)
+- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
