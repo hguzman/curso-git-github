@@ -8,3 +8,9 @@ Curso de GIT y git Hub
 
 - [How to learn Git slowly](https://dev.to/samuelfaure/how-to-learn-git-slowly-38fa)
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+## Comandos
+
+Muestra el detalle del commit
+
+`git show <commit> --stat`
